@@ -1,5 +1,5 @@
 # Atlas de Datos
-_Atlas de Datos_ es un catálogo sobre colecciones digitales y corpus de textos y documentos en español.
+_Atlas de Datos_ es un catálogo sobre colecciones digitales y corpus de textos y documentos en español. Los datos están aquí: <https://github.com/morethanbooks/atlas-de-datos/blob/master/atlas%20de%20datos.tsv>
 
 Debido a la situación de digitalización del español, incluyo casi cualquier tipo de formato digital: PDF, imágenes, web, eBooks, XML, markup vario o TEI. Me he centrado principalmente en colecciones de textos literarios o colecciones que no encajan en la lingüística de corpus. Para saber más sobre corpus lingüísticos en español recomiendo _Infoling_: http://infoling.org/search/recursos/search.php
 
