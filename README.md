@@ -8,6 +8,8 @@ Hasta ahora _Atlas de Datos_ da acceso a los datos mediante una tabla CSV en la 
 # Aportaciones o modificaciones
 Si quieres aportar nuevas fuentes o modificaciones a las actuales, puedes crear un Issue en GitHub. Me encantaría contar con colaboradores recurrentes, en cuyo caso podría dar acceso para editar el repositorio.
 
+Agradezco a Carlos Fernández y a Antonio Rojas Castro que me hayan enviado varias fuentes que me eran desconocidas.
+
 # Proyectos similares
 Desde luego no he sido el primero al que se la ha ocurrido listar y observar críticamente los rasgos de proyectos de digitalización, aunque hasta ahora no conocía ningún proyecto que recogiese fuentes de textos y datos literarios de manera sistemática para el español. Algunos proyectos interesantes que me han servido de inspiración y complementan en otras áreas, lenguas o con otras metodologías _Atlas de Datos_ son (señalando solo uno de sus principales autores):
 
