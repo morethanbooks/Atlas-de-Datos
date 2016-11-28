@@ -9,7 +9,7 @@ Hasta ahora _Atlas de Datos_ da acceso a los datos mediante una tabla CSV en la 
 Si quieres aportar nuevas fuentes o modificaciones a las actuales, puedes crear un Issue en GitHub. Me encantaría contar con colaboradores recurrentes, en cuyo caso podría dar acceso para editar el repositorio.
 
 # Proyectos similares
-Desde luego no he sido el primero al que se la ha ocurrido poner en una tabla proyectos de digitalización, aunque hasta ahora no conocía ningún proyecto que recogiese fuentes de textos y datos literarios de manera sistemática para el español. Algunos proyectos interesantes que complementan en otras áreas o lenguas _Atlas de Datos_ son (señalando solo uno de sus principales autores):
+Desde luego no he sido el primero al que se la ha ocurrido listar y observar críticamente los rasgos de proyectos de digitalización, aunque hasta ahora no conocía ningún proyecto que recogiese fuentes de textos y datos literarios de manera sistemática para el español. Algunos proyectos interesantes que me han servido de inspiración y complementan en otras áreas, lenguas o con otras metodologías _Atlas de Datos_ son (señalando solo uno de sus principales autores):
 
 * _A Catalogue of Digital Editions_, Greta Franzini: <https://github.com/gfranzini/digEds_cat>
 * _Textdaten Romanistik Home_, Annette Gerstenber: <http://wikis.fu-berlin.de/display/tdr/Textdaten+Romanistik+Home>
